@@ -1,0 +1,8 @@
+{
+  "lambda": {
+    "role": "arn:aws:iam::214351072470:role/lambda_dev_role",
+    "name": "playlist-api",
+    "region": "us-east-1",
+    "sharedRole": true
+  }
+}
